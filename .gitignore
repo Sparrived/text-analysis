@@ -1,2 +1,4 @@
 /datasets/*
 !/datasets/readme.md
+/__pycache__
+/outputs/*
